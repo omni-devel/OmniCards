@@ -8,8 +8,11 @@ https://gitea.omni-devel.ru/omni/OmniCards
 https://github.com/omni-devel/OmniCards/releases/latest
 
 ### Screenshots
-<img width="648" height="1440" alt="image" src="https://github.com/user-attachments/assets/10b84470-d6ae-4ec3-9ca7-c1b9848e339a" />
-<img width="648" height="1440" alt="image" src="https://github.com/user-attachments/assets/57537802-581b-4a75-9d86-0f62a3c1c362" />
-<img width="648" height="1440" alt="image" src="https://github.com/user-attachments/assets/81140b2a-4a14-4327-ad20-838836ff25da" />
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/abba7d47-a75f-4249-91e3-ba748eb3039b" />
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/2af74925-7a6c-42cd-a70f-bce9358e3e4a" />
+<img width="1080" height="2400" alt="Screenshot_20260611_170138_OmniCards" src="https://github.com/user-attachments/assets/e7632617-5d26-46f1-92ac-6dced85b37bd" />
+<img width="1080" height="2400" alt="Screenshot_20260611_170144_OmniCards" src="https://github.com/user-attachments/assets/3befb14e-5403-433c-8794-42623f7f0ea4" />
+<img width="1080" height="2400" alt="Screenshot_20260611_170148_OmniCards" src="https://github.com/user-attachments/assets/a0522132-4e0e-42c3-9581-bbfdf2ae58d9" />
+<img width="1080" height="2400" alt="Screenshot_20260611_170154_OmniCards" src="https://github.com/user-attachments/assets/9e56ac64-3100-43dd-8ca8-b66139864088" />
+<img width="1080" height="2400" alt="Screenshot_20260611_170405_OmniCards" src="https://github.com/user-attachments/assets/09acbb5d-c71d-48d0-a9b6-6a2e275d8447" />
+<img width="480" height="480" alt="Screenshot_20260611_172604_cards" src="https://github.com/user-attachments/assets/5349d58b-2431-4cd4-8b9f-d94950117018" />
+<img width="480" height="480" alt="Screenshot_20260611_172626_cards" src="https://github.com/user-attachments/assets/cbafa190-a6bf-4f02-8464-9e1587fef649" />
+
