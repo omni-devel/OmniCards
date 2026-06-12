@@ -1,6 +1,8 @@
 # OmniCards
 Free discount cards manager for Android and WearOS
 
+<img width="1774" height="887" src="https://github.com/user-attachments/assets/abfd2a66-4a96-4ebd-a3ee-8b96dba57aa8" />
+
 ### Source code
 https://gitea.omni-devel.ru/omni/OmniCards
 
