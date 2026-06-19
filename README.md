@@ -6,15 +6,16 @@ Free discount cards manager for Android and WearOS
 ### Source code
 https://gitea.omni-devel.ru/omni/OmniCards
 
+### Developers
+- Omni Devel (https://t.me/async_fn)
+- Fimkov (https://t.me/fimkov)
+
 ### Download
 https://github.com/omni-devel/OmniCards/releases/latest
 
 ### Screenshots
-<img width="1080" height="2400" alt="Screenshot_20260611_170138_OmniCards" src="https://github.com/user-attachments/assets/e7632617-5d26-46f1-92ac-6dced85b37bd" />
-<img width="1080" height="2400" alt="Screenshot_20260611_170144_OmniCards" src="https://github.com/user-attachments/assets/3befb14e-5403-433c-8794-42623f7f0ea4" />
-<img width="1080" height="2400" alt="Screenshot_20260611_170148_OmniCards" src="https://github.com/user-attachments/assets/a0522132-4e0e-42c3-9581-bbfdf2ae58d9" />
-<img width="1080" height="2400" alt="Screenshot_20260611_170154_OmniCards" src="https://github.com/user-attachments/assets/9e56ac64-3100-43dd-8ca8-b66139864088" />
-<img width="1080" height="2400" alt="Screenshot_20260611_170405_OmniCards" src="https://github.com/user-attachments/assets/09acbb5d-c71d-48d0-a9b6-6a2e275d8447" />
-<img width="480" height="480" alt="Screenshot_20260611_172604_cards" src="https://github.com/user-attachments/assets/5349d58b-2431-4cd4-8b9f-d94950117018" />
-<img width="480" height="480" alt="Screenshot_20260611_172626_cards" src="https://github.com/user-attachments/assets/cbafa190-a6bf-4f02-8464-9e1587fef649" />
-
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2363b81e-acca-442c-a6e7-6c2742da0e2f" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/27a80e15-f0ab-499b-bdf3-f07a070499cd" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9ab04126-a7e4-42a9-bf32-6b76d3e58415" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/102682d9-d08d-473c-8f2c-ee85373381e5" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/df8a106d-0c44-45e9-92cb-16e7a5a302c3" />
