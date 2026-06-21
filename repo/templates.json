@@ -1,9 +1,10 @@
 [
   {
-    "name": "Wi-Fi",
+    "name": "Wi-Fi (WPA)",
     "fields": [
-      {"ssid" :"string"},
+      {"name" :"string"},
       {"password": "string"}
-    ]
+    ],
+    "template": "WIFI:S:$name$;T:WPA;P:$password$;;"
   }
 ]
