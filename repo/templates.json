@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Wi-Fi",
+    "fields": [
+      {"ssid" :"string"},
+      {"password": "string"}
+    ]
+  }
+]
