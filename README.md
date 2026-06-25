@@ -14,6 +14,10 @@ https://gitea.omni-devel.ru/omni/OmniCards
 1. Join to Google group: https://groups.google.com/g/omnicards
 2. Download from Google Play: https://play.google.com/store/apps/details?id=ru.omni_devel.cards
 
+### Donate
+* RUB: https://www.tbank.ru/cf/6TtOdtnk3kA
+* USDT: http://t.me/send?start=IVAh3I1aKqMD
+
 ### Screenshots
 #### Mobile
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d0ddde52-49e7-47bf-bb4c-5c5211d0c452" />
