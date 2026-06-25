@@ -11,8 +11,8 @@ https://gitea.omni-devel.ru/omni/OmniCards
 - Fimkov (https://t.me/fimkov)
 
 ### Download
-Join to Google group: https://groups.google.com/g/omnicards
-Download from Google Play: https://play.google.com/store/apps/details?id=ru.omni_devel.cards
+1. Join to Google group: https://groups.google.com/g/omnicards
+2. Download from Google Play: https://play.google.com/store/apps/details?id=ru.omni_devel.cards
 
 ### Screenshots
 #### Mobile
